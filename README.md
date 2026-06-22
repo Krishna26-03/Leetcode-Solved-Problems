@@ -7,6 +7,7 @@ Problems solved by me in leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ Problems solved by me in leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
