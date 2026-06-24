@@ -14,6 +14,7 @@ Problems solved by me in leetcode
 | [0088-merge-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -47,4 +48,8 @@ Problems solved by me in leetcode
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
