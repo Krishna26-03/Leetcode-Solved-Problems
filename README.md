@@ -17,6 +17,7 @@ Problems solved by me in leetcode
 | [0485-max-consecutive-ones](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1929-concatenation-of-array) |
@@ -42,6 +43,7 @@ Problems solved by me in leetcode
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Problems solved by me in leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
@@ -67,6 +70,7 @@ Problems solved by me in leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
