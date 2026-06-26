@@ -23,6 +23,7 @@ Problems solved by me in leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -60,6 +61,11 @@ Problems solved by me in leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
