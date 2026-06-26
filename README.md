@@ -14,6 +14,7 @@ Problems solved by me in leetcode
 | [0088-merge-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0485-max-consecutive-ones](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
