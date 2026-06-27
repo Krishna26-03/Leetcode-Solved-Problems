@@ -84,5 +84,6 @@ Problems solved by me in leetcode
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
