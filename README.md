@@ -14,6 +14,7 @@ Problems solved by me in leetcode
 | [0088-merge-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ Problems solved by me in leetcode
 | [0141-linked-list-cycle](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -50,6 +52,7 @@ Problems solved by me in leetcode
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -93,4 +96,8 @@ Problems solved by me in leetcode
 | [0142-linked-list-cycle-ii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
