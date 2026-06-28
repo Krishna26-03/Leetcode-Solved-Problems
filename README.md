@@ -93,6 +93,7 @@ Problems solved by me in leetcode
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -106,4 +107,8 @@ Problems solved by me in leetcode
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
