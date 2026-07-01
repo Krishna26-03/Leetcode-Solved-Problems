@@ -20,6 +20,7 @@ Problems solved by me in leetcode
 | [0904-fruit-into-baskets](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1929-concatenation-of-array) |
@@ -116,4 +117,5 @@ Problems solved by me in leetcode
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
