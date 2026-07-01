@@ -25,6 +25,7 @@ Problems solved by me in leetcode
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1929-concatenation-of-array) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
