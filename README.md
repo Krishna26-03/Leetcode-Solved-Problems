@@ -29,6 +29,7 @@ Problems solved by me in leetcode
 | [0986-interval-list-intersections](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1288-remove-covered-intervals](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1920-build-array-from-permutation) |
@@ -82,6 +83,7 @@ Problems solved by me in leetcode
 | [0075-sort-colors](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1288-remove-covered-intervals) |
 ## Simulation
 |  |
 | ------- |
