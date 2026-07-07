@@ -116,6 +116,7 @@ Problems solved by me in leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -160,6 +161,7 @@ Problems solved by me in leetcode
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Sweep Line
 |  |
