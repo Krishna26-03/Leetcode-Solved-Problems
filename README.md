@@ -140,6 +140,7 @@ Problems solved by me in leetcode
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
