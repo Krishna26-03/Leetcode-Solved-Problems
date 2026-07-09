@@ -33,6 +33,7 @@ Problems solved by me in leetcode
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1288-remove-covered-intervals](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1288-remove-covered-intervals) |
+| [1470-shuffle-the-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1920-build-array-from-permutation) |
