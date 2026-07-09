@@ -19,6 +19,7 @@ Problems solved by me in leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@ Problems solved by me in leetcode
 | [0142-linked-list-cycle-ii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
@@ -168,6 +170,7 @@ Problems solved by me in leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -179,6 +182,7 @@ Problems solved by me in leetcode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Krishna26-03/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
